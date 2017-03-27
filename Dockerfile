@@ -1,4 +1,4 @@
-FROM ruby:2.3.1
+FROM soumyaray/ruby-http:2.3.1
 
 WORKDIR /worker
 
