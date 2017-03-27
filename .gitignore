@@ -1,0 +1,11 @@
+# gem bundle
+bundle/
+
+# iron credential
+iron.json
+
+# basic auth credential
+config/config_env.json
+
+# iron upload
+*.zip
